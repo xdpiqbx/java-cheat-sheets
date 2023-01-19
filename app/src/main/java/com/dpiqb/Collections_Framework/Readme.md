@@ -1,1 +1,1 @@
-![Full Collection&Map hierarchy](./images/Full Collection&Map hierarchy.svg)
+![Full Collection&Map hierarchy](./images/full_collection_map_hierarchy.svg)
