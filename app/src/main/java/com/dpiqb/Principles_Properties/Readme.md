@@ -98,6 +98,9 @@ For example, in an application that transfers funds from one account to another,
     1. Dirty reads
     2. Non-repeatable reads
     3. Phantom reads
+
+
+
     4. Serialization anomaly
 
  - `read-uncommitted` - Dirty reads, non-repeatable reads, and phantom reads can occur.

@@ -8,9 +8,11 @@
 
 ## [Class Object](https://github.com/xdpiqbx/java-cheat-sheets/tree/main/app/src/main/java/com/dpiqb/Object)
 
-## `TODO` [Collections Framework](https://github.com/xdpiqbx/java-cheat-sheets/tree/main/app/src/main/java/com/dpiqb/Collections_Framework)
+## [Collections Framework](https://github.com/xdpiqbx/java-cheat-sheets/tree/main/app/src/main/java/com/dpiqb/Collections_Framework)
 
 ## [BigInteger & BigDecimal](https://github.com/xdpiqbx/java-cheat-sheets/tree/main/app/src/main/java/com/dpiqb/BigInteger_BigDecimal)
+
+## [Principles Properties](https://github.com/xdpiqbx/java-cheat-sheets/tree/main/app/src/main/java/com/dpiqb/Principles_Properties)
 
 ---
 In `C:\Users\USER_NAME\.ssh`
