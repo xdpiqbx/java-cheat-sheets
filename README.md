@@ -1,3 +1,14 @@
+# Encapsulation
+isolating the contractual obligations of an abstraction from their implementation
+
+# Inheritance
+the method to create a hierarchy between classes by inheriting from other classes
+
+# Polymorphism
+one interface — many implementations
+
+---
+
 # Java cheat sheets
 
 ## [Types](https://github.com/xdpiqbx/java-cheat-sheets/tree/main/app/src/main/java/com/dpiqb/Types)
@@ -17,15 +28,3 @@
 ## [Transactions](https://github.com/xdpiqbx/java-cheat-sheets/tree/main/app/src/main/java/com/dpiqb/Transactions)
 
 ---
-In `C:\Users\USER_NAME\.ssh`
-`ssh-keygen` set name `id_rsa`
-
-**Windows powershell**
-```code
-ssh-add .\id_rsa
-```
-
-**To check ssh connection** 
-```code 
-ssh -T git@github.com
-```
