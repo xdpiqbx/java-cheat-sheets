@@ -55,5 +55,5 @@ ssh-copy-id -i C:\Users\USER_NAME\.ssh\id_rsa.pub -p2222 user@192.168.0.10
 
 **Copy the file using SSH with a password**
 ```text
-sshpass -p 'P@$$w0rD' scp -P 2217 spring-boot-app.jar max@178.214.220.16:/dpiqb
+sshpass -p 'P@$$w0rD' scp -P 2217 spring-boot-app.jar max@192.168.0.10:/dpiqb
 ```
